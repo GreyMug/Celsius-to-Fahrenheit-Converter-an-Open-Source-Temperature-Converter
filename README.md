@@ -4,6 +4,7 @@
   
 Description:
 C2FC converts any temperature in Celsius to Fahrenheit with ~100% accuracy. C2FC was created with industrial uses in mind, but can be a very useful tool for individual use as well.
+C2FC does not require an internet connection to work. Which means it will work anytime, anywhere.
 
 Linux release:
 Support for Linux is coming soon, and will be launched alongside v1.2.
