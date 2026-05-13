@@ -3,7 +3,9 @@
   Celsius to Fahrenheit Converter (C2FC) is designed to be extremely lightweight and is usable on nearly anything. It uses a command line interface to utilize minimal resources on your device which is preferred when using with low power hardware. For the latest release, please visit our official GitHub repository: https://github.com/GreyMug/Celsius-to-Fahrenheit-Converter-an-Open-Source-Temperature-Converter
   
 Description:
+
 C2FC converts any temperature in Celsius to Fahrenheit with ~100% accuracy. C2FC was created with industrial uses in mind, but can be a very useful tool for individual use as well.
+
 C2FC does not require an internet connection to work. Which means it will work anytime, anywhere.
 
 Linux release:
