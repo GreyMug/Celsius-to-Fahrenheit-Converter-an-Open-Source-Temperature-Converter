@@ -1,7 +1,7 @@
 2026 GreyMug
 
 <img width="256" height="256" alt="favicon (1) ico" src="https://github.com/user-attachments/assets/f0a742df-1526-4a54-a98d-8465ce7b77ea" />
-
+<img width="6912" height="3456" alt="Blue and White Simple Minimalist Banner Landscape" src="https://github.com/user-attachments/assets/38bc6a68-7927-4e1c-9932-4a3a990c4793" />
   Celsius to Fahrenheit Converter (C2FC) is designed to be extremely lightweight and is usable on nearly anything. It uses a command line interface to utilize minimal resources on your device which is preferred when using with low power hardware. For the latest release, please visit our official GitHub repository: https://github.com/GreyMug/Celsius-to-Fahrenheit-Converter-an-Open-Source-Temperature-Converter
   
 Description:
